@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace maquna_expres
+namespace maquina_expres
 {
     internal static class Program
     {
